@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* Tam ekran yüksekliği */
+  display: flex; /* Flexbox kullanarak içeriği yerleştir */
+  justify-content: center; /* Yatayda ortalar */
+  align-items: center; /* Dikeyde ortalar */
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center; /* İçeriği metin bazında ortalar */
+}
